@@ -280,6 +280,56 @@ p {
 }
 
 
+.cardContainer:nth-child(9) .card .front 
+{
+  background: #333333;
+  
+}
+.cardContainer:nth-child(9) .card .back 
+{
+  background: #27ae60;
+  
+}
+
+.cardContainer:nth-child(10) .card .front 
+{
+  background: #333333;
+  
+}
+.cardContainer:nth-child(10) .card .back 
+{
+  background: #27ae60;
+  
+}
+
+
+.cardContainer:nth-child(11) .card .front 
+{
+  background: #333333;
+  
+}
+.cardContainer:nth-child(11) .card .back 
+{
+  background: #27ae60;
+  
+}
+
+
+
+.cardContainer:nth-child(12) .card .front 
+{
+  background: #333333;
+  
+}
+.cardContainer:nth-child(12) .card .back 
+{
+  background: #27ae60;
+  
+}
+
+
+
+
 
 
 
