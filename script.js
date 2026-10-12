@@ -1,3 +1,3 @@
-$(".card").dblclick(function () {
+$(".card").click(function () {
   $(this).toggleClass("flipped");
 });
