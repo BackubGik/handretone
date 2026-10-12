@@ -149,6 +149,7 @@ p {
   color: #333;
 }
 .well {
+  border-radius: 65px;
   padding: 3%;
   margin: 20px auto;
   border:none;
