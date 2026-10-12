@@ -5,6 +5,7 @@
 		position: relative;
 		margin-top: 1rem;
 		.form-control{
+			caret-color: transparent;
 			border-radius: 0px;
 			border-top: none;
 			border-left: none;
